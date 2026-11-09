@@ -1,0 +1,5 @@
+requests
+pyotp
+beautifulsoup4
+cryptography
+firebase-admin
